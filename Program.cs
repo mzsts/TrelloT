@@ -8,8 +8,8 @@ namespace TrelloT
     internal class Program
     {
         private const string host = "imap.googlemail.com";
-        private const string username = "m.balandintest@gmail.com";
-        private const string password = "rywpnlazonbeizll";
+        private const string username = "";
+        private const string password = "";
 
         private static ImapClient imapClient;
 
